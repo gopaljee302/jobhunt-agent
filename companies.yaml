@@ -23,16 +23,19 @@
 # noise and makes the prefilter counts impossible to reason about.
 
 companies:
-  - {ats: greenhouse, slug: stripe,      name: Stripe}
-  - {ats: greenhouse, slug: databricks,  name: Databricks}
-  - {ats: greenhouse, slug: cloudflare,  name: Cloudflare}
-  - {ats: greenhouse, slug: figma,       name: Figma}
-  - {ats: greenhouse, slug: dropbox,     name: Dropbox}
-  - {ats: greenhouse, slug: coinbase,    name: Coinbase}
-  - {ats: greenhouse, slug: reddit,      name: Reddit}
-  - {ats: lever,      slug: voleon,      name: Voleon}
-
-  - {ats: ashby,      slug: openai,      name: OpenAI}
-  - {ats: ashby,      slug: ramp,        name: Ramp}
-  - {ats: ashby,      slug: linear,      name: Linear}
-  - {ats: ashby,      slug: vanta,       name: Vanta}
+  - {ats: greenhouse, slug: razorpaysoftwareprivatelimited, name: Razorpay}
+  - {ats: lever, slug: meesho, name: Meesho}
+  - {ats: lever, slug: bosonai, name: Boson AI}
+  - {ats: lever, slug: distro, name: Distro}
+  - {ats: lever, slug: veeva, name: Veeva Systems}
+  - {ats: lever, slug: stable-money1, name: Stable Money}
+  - {ats: lever, slug: levelai, name: Level AI}
+  - {ats: lever, slug: coupa, name: Coupa Software}
+  - {ats: lever, slug: smart-working-solutions, name: Smart Working Solutions}
+  - {ats: ashby, slug: uipath, name: UiPath}
+  - {ats: ashby, slug: Meraki-Labs, name: Meraki Labs}
+  - {ats: ashby, slug: sarvam, name: Sarvam AI}
+  - {ats: ashby, slug: plotlineso, name: Plotline}
+  - {ats: ashby, slug: hinge-health, name: Hinge Health}
+  - {ats: ashby, slug: retell-ai, name: Retell AI}
+  
